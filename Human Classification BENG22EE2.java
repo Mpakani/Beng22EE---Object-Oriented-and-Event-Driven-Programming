@@ -13,7 +13,7 @@ public class Classification {
     
         
     
-public class
+public class Human
     /**
      * @param args the command line arguments
      */
