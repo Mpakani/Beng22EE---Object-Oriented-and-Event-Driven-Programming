@@ -6,7 +6,7 @@ package classification;
 
 /**
  *
- * @author GROUP 1
+ * @author Irene Charles Mpakani
  */
 public class Male {
     void display(){
