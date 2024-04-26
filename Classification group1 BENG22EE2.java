@@ -6,7 +6,7 @@ package classification;
 
 /**
  *
- *@author GROUP 1
+ *@author Irene Charles Mpakani
  */
 import java.util.*;
 public class Classification {
